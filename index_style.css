@@ -1,0 +1,196 @@
+.home .btn
+{
+
+    font-size: 16px;
+    margin-top: 20px;
+    border-radius: 5% 5% 5% 5%;
+    text-align: center;
+    letter-spacing: 0px;
+}
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.HomeContnet
+{
+    margin-bottom: 200px;
+}
+h1
+{
+    font-family: "Alegreya";
+    margin-top: 10px;
+    font-size: 80px;
+}
+.home .p2
+{
+    font-family: "Alegreya Sans";
+    margin-top: 15px;
+    font-size: 24px;
+}
+.Home .p1
+{
+    font-family: "Alegreya Sans";
+    font-size: 24px;
+    margin-top: 190px;
+}
+.Home
+{
+    background-image: url('images/drew-coffman-1872.jpg') ;
+    background-position: center;
+    text-align: center;
+    height: 620px;
+    background-size: cover;
+    color: #fff;
+    overflow: auto;
+    font-family: "Alegreya Sans";
+    height: 100%;
+}
+.home .btn1
+{
+text-transform: none;
+background-color: #8e7754;
+border: 2px solid transparent;
+padding: 15px 28px;
+font-size: 16px;
+color: white;
+}
+.home .btn2
+{
+font-size: 16px;
+text-transform: none;
+background:none;
+border: 2px solid transparent;
+padding: 15px 28px;
+border-color: white;
+margin-left: 12px;
+color: white;
+}
+body
+{
+    background-color: rgb(77, 77, 77);
+    font-family: 'Open Sans',arial
+}
+.Home img
+{
+    margin-right: 1050px;
+    height: 48.2px;
+    margin-top: 20px ;
+}
+.photo
+{
+    padding: 50px;
+    float: left;
+}
+.photo img
+{
+    float: left;
+  margin: 6%;
+    width: 565px;
+    height: 535px; 
+    margin-bottom: 50px;
+}
+
+.h2
+{
+    text-align: right;
+    font-family: "Alegreya Sans";
+}
+.h21
+{
+padding: 165px;
+font-size: 20px;
+font-family: "Alegreya Sans";
+}
+.h22
+{
+    font-size: 24;
+    font-family: "Alegreya Sans";
+}
+.photo .p2
+{
+    font-size: 15px;
+    font-family: "Alegreya Sans";
+}
+.photo1 img
+{
+   float: right; 
+    margin: 6%;
+    width: 565px;
+    height: 535px;
+}
+.photo1 .h3
+{
+    padding: 165px;
+    text-align: left;
+    font-family: "Alegreya Sans";
+    font-size: 24px;
+    margin-top: 190px;
+}
+.photo1 .h33
+{
+    font-size: 20px;
+    font-family: "Alegreya Sans";
+    margin-top: 60px;
+}
+.photo1 .p3
+{
+    font-size: 15px;
+    font-family: "Alegreya Sans";  
+    margin-top: 60px; 
+}
+.member
+{
+    width: 32.5%;
+    text-align: center;
+      float: left;
+      padding: 5px;
+}
+.member img
+{
+        width: 100%;
+    display: inline-block;
+    
+}
+.member1 h3
+{
+    text-align: center;
+    padding: 300px;
+    width: 800;
+    height: 60;
+    font-size: 26px;
+    color: white; 
+}
+.member1 p
+{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+.location img
+{
+    float: right; 
+    margin: 6%;
+    width: 565px;
+    height: 535px;
+}
+.location h2
+{
+    text-align: center;
+    font-size: 25px;
+}
+.location p
+{
+    text-align: left;
+    padding: 100px;
+}
+.last
+{
+    text-align: center;
+    padding: 100px;
+}
+.last img
+{
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
